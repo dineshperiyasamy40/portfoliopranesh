@@ -1,2 +1,0 @@
-public/videos/reel1.mp4 filter=lfs diff=lfs merge=lfs -text
-src/assets/Videos/reels[[:space:]]1.mp4 filter=lfs diff=lfs merge=lfs -text
