@@ -1,0 +1,15 @@
+INSTRUCTIONS:
+===============
+
+Please copy the uploaded photo (the one you showed me) to this location:
+
+d:\Pranesh Portfolio\portfolio\src\assets\images\pranesh.jpg
+
+The photo should be saved as "pranesh.jpg" in this folder.
+
+If you have a different photo name or format, you can either:
+1. Rename it to "pranesh.jpg"
+2. Or update the image reference in:
+   src/app/components/hero/hero.component.html (line 14)
+
+The website is looking for the image at this path.

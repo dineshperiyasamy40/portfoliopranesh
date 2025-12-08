@@ -1,0 +1,9 @@
+/* App Component Styles */
+:host {
+  display: block;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
